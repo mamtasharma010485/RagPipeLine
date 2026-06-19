@@ -1,0 +1,12 @@
+# Project dependencies
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+python-docx
+python-multipart
+ollama
